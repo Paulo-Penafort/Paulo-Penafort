@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Bem-vindo ao meu perfil do GitHub!
 
-<!--
-**Paulo-Penafort/Paulo-Penafort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Paulo** e sou estudante do **Colégio Politécnico da UFSM**.
 
-Here are some ideas to get you started:
+🎓 Curso: **Técnico em Informática para Internet**  
+📚 Atualmente no **1º semestre**  
+💻 Interessado em aprender programação e desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Atualmente estou aprendendo
+
+- Lógica de Programação
+- Algoritmos
+- Fluxogramas
+- Git e GitHub
+
+---
+
+## 💻 Linguagens que vou estudar
+
+- C
+- JavaScript
+
+---
+
+## 🎯 Objetivo
+
+Desenvolver minhas habilidades em programação, criar projetos e evoluir na área de tecnologia.
+
+---
+
+## 🛠 Ferramentas que utilizo
+
+- VS Code
+- Git
+- GitHub
+
+---
+
+⭐ Obrigado por visitar meu perfil!
