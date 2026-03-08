@@ -1,4 +1,4 @@
-# 👋 Bem-vindo ao meu perfil do GitHub!
+# 👋 Bem-vindo ao meu perfil!
 
 Meu nome é **Paulo** e sou estudante do **Colégio Politécnico da UFSM**.
 
