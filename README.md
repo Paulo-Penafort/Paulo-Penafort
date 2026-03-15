@@ -32,8 +32,9 @@ Desenvolver minhas habilidades em programação, criar projetos e evoluir na ár
 
 ## 🛠 Ferramentas que utilizo
 
-- VS Code
-- Git
+- (IDE) VSCode
+- (IDE) WebStorm
+- (IDE)DEV-C++
 - GitHub
 
 ---
