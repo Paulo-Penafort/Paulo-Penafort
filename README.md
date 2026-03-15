@@ -10,10 +10,10 @@ Meu nome é **Paulo** e sou estudante do **Colégio Politécnico da UFSM**.
 
 ## 🚀 Atualmente estou aprendendo
 
-- Lógica de Programação
-- Algoritmos
-- Fluxogramas
-- Git e GitHub
+- Algoritmos e Programção
+- Construção de Páginas Web
+- Designer de Interfaces
+- Introdução á informatica para internet 
 
 ---
 
