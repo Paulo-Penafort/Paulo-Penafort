@@ -3,7 +3,7 @@
 Meu nome é **Paulo** e sou estudante do **Colégio Politécnico da UFSM**.
 
 🎓 Curso: **Técnico em Informática para Internet**  
-📚 Atualmente no **1º semestre**  
+📚 Atualmente no **2º semestre**  
 💻 Interessado em aprender programação e desenvolvimento web.
 
 ---
